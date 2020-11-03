@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name_text">Lívia</string>
+    <string name="yellow_star">estrela amarela</string>
+    <string name="bio_text">É claro que a constante divulgação das informações facilita a criação da
+        gestão inovadora da qual fazemos parte. O cuidado em identificar pontos críticos na
+        hegemonia do ambiente político facilita a criação do levantamento das variáveis envolvidas. \n
+    A prática cotidiana prova que o julgamento imparcial das eventualidades oferece uma interessante
+        oportunidade para verificação do processo de comunicação como um todo. O que temos que ter
+        sempre em mente é que a mobilidade dos capitais internacionais deve passar por modificações
+        independentemente das posturas dos órgãos dirigentes com relação às suas atribuições. \n
+    No entanto, não podemos esquecer que a necessidade de renovação processual estende o alcance e a
+        importância dos modos de operação convencionais.</string>
 </resources>
